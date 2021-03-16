@@ -1,0 +1,11 @@
+\\C6FC-STUDENT1\2019$\av190261\A-Level Computer Science\Visual Basic\Projects\Github Test\bin\Debug\Github Test.exe.config
+\\C6FC-STUDENT1\2019$\av190261\A-Level Computer Science\Visual Basic\Projects\Github Test\bin\Debug\Github Test.exe
+\\C6FC-STUDENT1\2019$\av190261\A-Level Computer Science\Visual Basic\Projects\Github Test\bin\Debug\Github Test.pdb
+\\C6FC-STUDENT1\2019$\av190261\A-Level Computer Science\Visual Basic\Projects\Github Test\bin\Debug\Github Test.xml
+\\C6FC-STUDENT1\2019$\av190261\A-Level Computer Science\Visual Basic\Projects\Github Test\obj\Debug\Github Test.vbprojAssemblyReference.cache
+\\C6FC-STUDENT1\2019$\av190261\A-Level Computer Science\Visual Basic\Projects\Github Test\obj\Debug\Github_Test.Form1.resources
+\\C6FC-STUDENT1\2019$\av190261\A-Level Computer Science\Visual Basic\Projects\Github Test\obj\Debug\Github_Test.Resources.resources
+\\C6FC-STUDENT1\2019$\av190261\A-Level Computer Science\Visual Basic\Projects\Github Test\obj\Debug\Github Test.vbproj.GenerateResource.cache
+\\C6FC-STUDENT1\2019$\av190261\A-Level Computer Science\Visual Basic\Projects\Github Test\obj\Debug\Github Test.exe
+\\C6FC-STUDENT1\2019$\av190261\A-Level Computer Science\Visual Basic\Projects\Github Test\obj\Debug\Github Test.xml
+\\C6FC-STUDENT1\2019$\av190261\A-Level Computer Science\Visual Basic\Projects\Github Test\obj\Debug\Github Test.pdb
